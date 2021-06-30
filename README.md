@@ -24,8 +24,13 @@
 
 </span>
 <br>
+
+# Stats
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x13xDread&hide=shell&theme=radical)](https://github.com/x13xDread)
+<br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x13xDread)](https://github.com/anuraghazra/github-readme-stats)
 
