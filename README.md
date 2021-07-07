@@ -6,6 +6,7 @@
     <li><a href = "https://milesweber.w3spaces.com/" target = "_blank"> A personal website!</a></li>
     <li>A Discord chat/game bot!</li>
     <li>A health journal application!</li>
+    <li>A Minecraft Map</li>
     <li>And More!</li>
   </ul>
 </p>
