@@ -3,8 +3,6 @@
 <p>I'm Miles Weber, a current WVU cybersecurity student and part-time Web Developer!<br><br>
   I'm working on a variety of projects such as:
   <ul>
-    <li><a href = "https://milesweber.w3spaces.com/" target = "_blank"> A personal website!</a></li>
-    <li>A Discord chat/game bot!</li>
     <li>A health journal application!</li>
     <li>A Minecraft Map</li>
     <li>And More!</li>
