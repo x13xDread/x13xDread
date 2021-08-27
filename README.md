@@ -29,7 +29,7 @@
 # Stats
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x13xDread&hide=shell&theme=radical)](https://github.com/x13xDread)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x13xDread&langs_count=10&hide=shell&theme=radical)](https://github.com/x13xDread)
 <br>
 <br>
 
