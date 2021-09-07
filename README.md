@@ -37,5 +37,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x13xDread&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
