@@ -5,6 +5,7 @@
 <p>I'm Miles Weber, a current WVU cybersecurity student and part-time Web Developer!<br><br>
   I'm working on a variety of projects such as:
   <ul>
+    <li>Password Keeper</li>
     <li>A health journal application!</li>
     <li>A Minecraft Map</li>
     <li>And More!</li>
