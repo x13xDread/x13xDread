@@ -2,15 +2,13 @@
 
 # What's up? 👋
 
-<p>I'm Miles Weber, a current WVU cybersecurity student and part-time Web Developer!<br><br>
+I'm Miles Weber, a current WVU cybersecurity student and part-time Web Developer!<br><br>
   I'm working on a variety of projects such as:
-  <ul>
-    <li>Password Keeper</li>
-    <li>A health journal application!</li>
-    <li>A Minecraft Map</li>
-    <li>And More!</li>
-  </ul>
-</p>
+  
+- [A chat App](https://github.com/Whats-Poppin-Inc/Whats-Poppin)
+- [A Password Keeper](https://github.com/x13xDread/password-keeper)
+- [A Minecraft Map](https://github.com/x13xDread/MC-Map-Labratory)
+
 
 # My toolbox
 <br>
@@ -33,8 +31,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x13xDread&langs_count=10&hide=shell&theme=radical)](https://github.com/x13xDread)
-<br>
-<br>
+<br><br>
 
 [![x13xDread's GitHub stats](https://github-readme-stats.vercel.app/api?username=x13xDread&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
