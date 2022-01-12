@@ -5,9 +5,9 @@
 I'm Miles Weber, a current WVU cybersecurity student and part-time Web Developer!<br><br>
   I'm working on a variety of projects such as:
   
-- [A chat App](https://github.com/Whats-Poppin-Inc/Whats-Poppin)
-- [A Password Keeper](https://github.com/x13xDread/password-keeper)
-- [A Minecraft Map](https://github.com/x13xDread/MC-Map-Labratory)
+- [An Open Source Game Library](https://github.com/Whats-Poppin-Inc/poppin)
+- [A Resume Site](https://github.com/Whats-Poppin-Inc/poppin-site)
+- [A Desktop Weather App](https://github.com/Whats-Poppin-Inc/poppin-weather)
 
 
 # My toolbox
