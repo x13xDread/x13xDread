@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-02-12T00:45:43.303242</dc:date>
+    <dc:date>2022-02-13T00:46:08.208244</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -30,15 +30,15 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path clip-path="url(#p6fb0ab67cc)" d="M 39.303125 27.358125 
+    <path clip-path="url(#pcd4444bbc4)" d="M 39.303125 27.358125 
 L 570.731696 27.358125 
 L 570.731696 56.158125 
 L 39.303125 56.158125 
 z
-" style="fill:#da8019;stroke:#da8019;stroke-linejoin:miter;"/>
+" style="fill:#229020;stroke:#229020;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p6fb0ab67cc)" d="M 39.303125 63.358125 
+    <path clip-path="url(#pcd4444bbc4)" d="M 39.303125 63.358125 
 L 273.627183 63.358125 
 L 273.627183 92.158125 
 L 39.303125 92.158125 
@@ -46,7 +46,7 @@ z
 " style="fill:#701516;stroke:#701516;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p6fb0ab67cc)" d="M 39.303125 99.358125 
+    <path clip-path="url(#pcd4444bbc4)" d="M 39.303125 99.358125 
 L 212.066678 99.358125 
 L 212.066678 128.158125 
 L 39.303125 128.158125 
@@ -60,10 +60,10 @@ z
       <defs>
        <path d="M 0 0 
 L -3.5 0 
-" id="m21e287938b" style="stroke:#000000;stroke-width:0.8;"/>
+" id="m751a071725" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="39.303125" xlink:href="#m21e287938b" y="41.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="39.303125" xlink:href="#m751a071725" y="41.758125"/>
       </g>
      </g>
      <g id="text_1">
@@ -155,7 +155,7 @@ z
     <g id="ytick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="39.303125" xlink:href="#m21e287938b" y="77.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="39.303125" xlink:href="#m751a071725" y="77.758125"/>
       </g>
      </g>
      <g id="text_2">
@@ -238,7 +238,7 @@ z
     <g id="ytick_3">
      <g id="line2d_3">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="39.303125" xlink:href="#m21e287938b" y="113.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="39.303125" xlink:href="#m751a071725" y="113.758125"/>
       </g>
      </g>
      <g id="text_3">
@@ -535,7 +535,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- From 04 February, 2022 to 11 February, 2022: 1 hr -->
+    <!-- From 05 February, 2022 to 12 February, 2022: 1 hr -->
     <g style="fill:#586069;" transform="translate(165.351875 16.318125)scale(0.12 -0.12)">
      <defs>
       <path d="M 628 4666 
@@ -728,7 +728,7 @@ z
      <use x="150.314453" xlink:href="#DejaVuSans-6d"/>
      <use x="247.726562" xlink:href="#DejaVuSans-20"/>
      <use x="279.513672" xlink:href="#DejaVuSans-30"/>
-     <use x="343.136719" xlink:href="#DejaVuSans-34"/>
+     <use x="343.136719" xlink:href="#DejaVuSans-35"/>
      <use x="406.759766" xlink:href="#DejaVuSans-20"/>
      <use x="438.546875" xlink:href="#DejaVuSans-46"/>
      <use x="490.566406" xlink:href="#DejaVuSans-65"/>
@@ -749,7 +749,7 @@ z
      <use x="1270.693359" xlink:href="#DejaVuSans-6f"/>
      <use x="1331.875" xlink:href="#DejaVuSans-20"/>
      <use x="1363.662109" xlink:href="#DejaVuSans-31"/>
-     <use x="1427.285156" xlink:href="#DejaVuSans-31"/>
+     <use x="1427.285156" xlink:href="#DejaVuSans-32"/>
      <use x="1490.908203" xlink:href="#DejaVuSans-20"/>
      <use x="1522.695312" xlink:href="#DejaVuSans-46"/>
      <use x="1574.714844" xlink:href="#DejaVuSans-65"/>
@@ -776,7 +776,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p6fb0ab67cc">
+  <clipPath id="pcd4444bbc4">
    <rect height="110.88" width="558" x="39.303125" y="22.318125"/>
   </clipPath>
  </defs>
