@@ -1,9 +1,9 @@
-name: WakaTime status update 
+name: WakaTime status update
 
 on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '1 0 * * *'
+    - cron: "1 0 * * *"
 
 jobs:
   update-readme:
@@ -23,4 +23,3 @@ jobs:
           BRANCH: "main"
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
-
