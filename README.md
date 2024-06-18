@@ -2,12 +2,7 @@
 
 # What's up? 👋
 
-I'm Miles Weber, part-time Web Developer!<br><br>
-  I'm working on a variety of projects such as:
-  
-- [An Open Source Game Library](https://github.com/Whats-Poppin-Inc/poppin)
-- [A Resume Site](https://github.com/Whats-Poppin-Inc/poppin-site)
-
+I'm Miles Weber a Fullstack Web Developer!<br><br>
 
 # My toolbox
 <br>
