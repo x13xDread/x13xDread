@@ -2,7 +2,7 @@
 
 # What's up? 👋
 
-I'm Miles Weber a Fullstack Web Developer!<br><br>
+I'm Valerie, a Fullstack Web Developer!<br><br>
 
 # My toolbox
 <br>
